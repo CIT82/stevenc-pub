@@ -1,0 +1,16 @@
+body {
+    margin-top: 40px;
+    background-color: lightslategray;
+    color:rgb(15, 39, 59);
+    font-size: 2rem;
+}
+
+
+
+.box {
+    background-color: lightblue;
+    border: 1px solid blue;
+    min-height: 50px;
+    font-size: 4rem;
+}
+
